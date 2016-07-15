@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>20160715004-Thread-Singleton4(NoGCD).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D5C154691D38E1FA0031D264</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D5C154821D38E1FA0031D264</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D5C1548D1D38E1FA0031D264</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
