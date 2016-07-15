@@ -15,6 +15,7 @@
 		D5C1547D1D38E1FA0031D264 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5C1547B1D38E1FA0031D264 /* LaunchScreen.storyboard */; };
 		D5C154881D38E1FA0031D264 /* _0160715004_Thread_Singleton4_NoGCD_Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = D5C154871D38E1FA0031D264 /* _0160715004_Thread_Singleton4_NoGCD_Tests.m */; };
 		D5C154931D38E1FA0031D264 /* _0160715004_Thread_Singleton4_NoGCD_UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D5C154921D38E1FA0031D264 /* _0160715004_Thread_Singleton4_NoGCD_UITests.m */; };
+		D5C154A21D38E2150031D264 /* RYPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = D5C154A11D38E2150031D264 /* RYPerson.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		D5C1548E1D38E1FA0031D264 /* 20160715004-Thread-Singleton4(NoGCD)UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "20160715004-Thread-Singleton4(NoGCD)UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5C154921D38E1FA0031D264 /* _0160715004_Thread_Singleton4_NoGCD_UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _0160715004_Thread_Singleton4_NoGCD_UITests.m; sourceTree = "<group>"; };
 		D5C154941D38E1FA0031D264 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5C154A01D38E2150031D264 /* RYPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RYPerson.h; sourceTree = "<group>"; };
+		D5C154A11D38E2150031D264 /* RYPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RYPerson.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				D5C154711D38E1FA0031D264 /* AppDelegate.m */,
 				D5C154731D38E1FA0031D264 /* ViewController.h */,
 				D5C154741D38E1FA0031D264 /* ViewController.m */,
+				D5C154A01D38E2150031D264 /* RYPerson.h */,
+				D5C154A11D38E2150031D264 /* RYPerson.m */,
 				D5C154761D38E1FA0031D264 /* Main.storyboard */,
 				D5C154791D38E1FA0031D264 /* Assets.xcassets */,
 				D5C1547B1D38E1FA0031D264 /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				D5C154751D38E1FA0031D264 /* ViewController.m in Sources */,
 				D5C154721D38E1FA0031D264 /* AppDelegate.m in Sources */,
 				D5C1546F1D38E1FA0031D264 /* main.m in Sources */,
+				D5C154A21D38E2150031D264 /* RYPerson.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

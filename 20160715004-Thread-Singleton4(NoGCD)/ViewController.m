@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "RYPerson.h"
 
 @interface ViewController ()
 
@@ -16,7 +17,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    RYPerson *person1 = [RYPerson sharedInstance];
+    RYPerson *person2 = [RYPerson sharedInstance];
+    RYPerson *person3 = [RYPerson sharedInstance];
+ 
+    NSLog(@"%@ %@ %@", person1, person2, person3);
 }
 
 - (void)didReceiveMemoryWarning {
